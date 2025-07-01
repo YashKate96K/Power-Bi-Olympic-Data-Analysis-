@@ -60,9 +60,6 @@ The goal of this report is to provide an analytical overview of Olympic performa
 ![Screenshot 2025-07-01 120428](https://github.com/user-attachments/assets/d6e70c8f-6df2-43cb-9d8b-844ae3db34c3)
 ![Screenshot 2025-07-01 120116](https://github.com/user-attachments/assets/ad3aa246-d8c1-46cf-a8d4-183d26d39ded)
 
-
-
-
 ## 🚀 How to Use
 
 1. Open the `.pbit` Power BI template file in Power BI Desktop.
